@@ -1,0 +1,2 @@
+# movingavg
+movingaveragestreamlitaap
